@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+.no-underline {
+	text-decoration: none;
+}
+
+.dash-card-container {
+	position: relative;
+	top: 70%;
+	left: 48%;
+	margin-top: -240px;
+	margin-left: -240px;
+}
+
+.dash-cards {
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	border: 2px solid #8c8c91;
+	margin: 20px;
+	position: relative;
+	padding: 14px
+}
+
+.card-label {
+	display: block;
+    position: absolute;
+    bottom: 2px;
+    left: -1px;
+    color: #1f1f22;
+    font-weight: bold;
+    height: 125px;
+    width: 130px;
+    text-align: center;
+}
+
+.card-img {
+	position: relative;
+    top: 22px;
+    left: 13px;
+    width: 80px;
+    height: 80px;
+}

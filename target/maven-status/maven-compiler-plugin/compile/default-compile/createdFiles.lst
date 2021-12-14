@@ -1,0 +1,7 @@
+com/school/entity/Student.class
+com/school/util/HibernateUtil.class
+com/school/dao/StudentDao.class
+com/school/controllers/StudentController.class
+com/school/controllers/LoginController.class
+com/school/dao/UserDao.class
+com/school/entity/User.class

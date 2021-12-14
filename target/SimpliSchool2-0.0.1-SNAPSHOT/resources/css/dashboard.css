@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+.no-underline {
+	text-decoration: none;
+}
+
+.dash-card-container {
+	position: relative;
+	width: 600px;
+	height: 600px;
+	top: 50%;
+	left: 50%;
+	margin-top: -240px;
+	margin-left: -240px;
+}
+
+.dash-cards {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	border: 2px solid #8c8c91;
+	margin: 20px;
+	position: relative;
+}
+
+.card-label {
+	display: block;
+	position: absolute;
+	bottom: 2px;
+	left: 70px;
+	color: #1f1f22;
+	font-weight: bold;
+}
+
+.card-img {
+	position: relative;
+    top: 30px;
+    left: 60px;
+    width: 80px;
+    height: 80px;
+}
